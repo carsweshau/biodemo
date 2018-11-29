@@ -1,4 +1,4 @@
-[![travis](https://travis-ci.org/USERNAME/biodemo.svg?branch=master)](https://travis-ci.org/USERNAME/biodemo)
+[![travis](https://travis-ci.org/carsweshau/biodemo.svg?branch=master)](https://travis-ci.org/carsweshau/biodemo)
 
 # Overview 
 
@@ -8,13 +8,13 @@ In the examples below, `$` indicates the command line prompt.
 
 # Licence
 
-This program is released as open source software under the terms of [MIT License](https://raw.githubusercontent.com/USERNAME/biodemo/master/LICENSE).
+This program is released as open source software under the terms of [MIT License](https://raw.githubusercontent.com/carsweshau/biodemo/master/LICENSE).
 
 # Installing
 
 Clone this repository: 
 ```
-$ git clone https://github.com/USERNAME/biodemo
+$ git clone https://github.com/carsweshau/biodemo
 ```
 
 Move into the repository directory:
